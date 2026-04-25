@@ -45,8 +45,9 @@ Ideal para análise exploratória de dados
 
 📸 Evidências
 
-Upload no S3
-<img width="1359" height="675" alt="bucket scv" src="https://github.com/user-attachments/assets/ea08e79c-ecc2-40a7-8b35-15a2ec6ca39f" />
+ S3
+<img width="1359" height="675" alt="bucket scv" src="https://github.com/user-attachments/assets/4e1db9f4-aa47-48aa-bb1d-f779df4c5757" />
+
 
 Query no Athena
 <img width="1361" height="682" alt="query" src="https://github.com/user-attachments/assets/0457679a-6de4-4877-ae97-66c57f3b9309" />
