@@ -1,4 +1,4 @@
-# -Projeto-An-lise-de-Dados-com-Amazon-S3-e-Amazon-Athena
+# -Projeto-Analise-de-Dados-com-Amazon-S3-e-Amazon-Athena
 
 ## 📌 Descrição
 Este projeto demonstra a criação de um fluxo simples de análise de dados na AWS utilizando Amazon S3 e Amazon Athena, permitindo consultas SQL diretamente sobre arquivos armazenados na nuvem, sem necessidade de infraestrutura.
