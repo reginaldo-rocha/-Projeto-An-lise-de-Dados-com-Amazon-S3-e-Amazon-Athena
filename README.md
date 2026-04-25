@@ -10,6 +10,8 @@ Este projeto demonstra a criação de um fluxo simples de análise de dados na A
 
 Fluxo:
 1. Upload de arquivo CSV no Amazon S3
+<img width="1359" height="675" alt="bucket scv" src="https://github.com/user-attachments/assets/06c7c692-a92f-4961-b5b6-e8f14cc3c3d3" />
+
 2. Armazenamento dos dados na camada "dados/"
 3. Criação de tabela externa no Amazon Athena
 4. Execução de consultas SQL
@@ -41,21 +43,7 @@ Armazenamento escalável e seguro
 Consultas SQL sem necessidade de servidores
 Baixo custo (pay-per-query)
 Implementação rápida
-Ideal para análise exploratória de dados
-
-📸 Evidências
-
- S3
-<img width="1359" height="675" alt="bucket scv" src="https://github.com/user-attachments/assets/4e1db9f4-aa47-48aa-bb1d-f779df4c5757" />
-
-
-Query no Athena
-<img width="1361" height="682" alt="query" src="https://github.com/user-attachments/assets/0457679a-6de4-4877-ae97-66c57f3b9309" />
-
-Resultado da consulta
-<img width="1347" height="674" alt="Resultado projero novo" src="https://github.com/user-attachments/assets/15827a87-fd8e-4722-86b6-18adf89e82a2" />
-
-<img width="1340" height="679" alt="resultado final projeto 2" src="https://github.com/user-attachments/assets/c675204a-ca6e-4dd8-bbe9-f9a5faf7851f" />
+Ideal para análise exploratória de dado
 
 
 👨‍💻 Autor
